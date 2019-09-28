@@ -20,4 +20,3 @@ Note: Fixed Parameters programmed in projection for electrode copper strip:
 2) fixed amount of time(i.e sampling time)- 10ms
 
 ![Schematics](Schematics.png)
-Format: ![Alt Text](url)
