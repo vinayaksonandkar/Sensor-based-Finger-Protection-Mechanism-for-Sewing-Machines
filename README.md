@@ -15,3 +15,6 @@ The speed of the sewing machine motor is manually controlled by the operator thr
 If there is no signal from the hall effect sensor to the motor’s driver , the motor stops suddenly .
 A relay is connected to make or break the contact between the hall effect sensor’s output terminal and the driver. In case the contact breaks the driver gets no signal from hall effect sensor, and the motor stops suddenly , even if the paddle is pressed down by the operator to increase the speed.
 
+Note: Fixed Parameters programmed in projection for electrode copper strip: 
+1) fixed current – 20uA 
+2) fixed amount of time(i.e sampling time)- 10ms
