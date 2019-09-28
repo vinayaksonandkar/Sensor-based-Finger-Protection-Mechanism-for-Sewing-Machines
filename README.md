@@ -19,5 +19,5 @@ Note: Fixed Parameters programmed in projection for electrode copper strip:
 1) fixed current – 20uA 
 2) fixed amount of time(i.e sampling time)- 10ms
 
-![GitHub Logo](/images/logo.png)
+![Schematics](Schematics.png)
 Format: ![Alt Text](url)
